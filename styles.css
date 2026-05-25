@@ -1,1 +1,43 @@
 /*  your css code here. If applicable */
+body{
+	background-color: rgb(204, 204, 204)
+}
+
+h1,h2{
+	text-align: center
+	
+}
+ul{
+	padding:10px
+	max-width: 100px;
+	margin: 10px auto
+}
+ul li{
+	list-style-type: none
+	margin: 5px 0
+}
+ul li a{
+	text-decoration-line: none
+	color: #1a0dab;
+}
+ul li a:hover{
+	text-decoration-line: underline
+}
+.player_one, .player_two{
+	background-color: rgb(255, 255, 255);
+        padding: 15px;
+	padding: 10px
+	border-radius: 8px
+	max-width: 500px
+margin: 15px auto
+display: block
+}
+
+
+
+
+
+
+
+
+
